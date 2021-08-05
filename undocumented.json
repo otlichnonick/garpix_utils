@@ -1,0 +1,215 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Common/Date.swift",
+      "line": 39,
+      "symbol": "DateFormatter.dd_MMMM_yyyy",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Common/Date.swift",
+      "line": 45,
+      "symbol": "DateFormatter.ddMMyyyy",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Common/Date.swift",
+      "line": 51,
+      "symbol": "DateFormatter.yyyyMMdd",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Common/Date.swift",
+      "line": 57,
+      "symbol": "DateFormatter.yyyyMMddLine",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Common/Date.swift",
+      "line": 63,
+      "symbol": "DateFormatter.serverTime",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Common/Date.swift",
+      "line": 69,
+      "symbol": "DateFormatter.dd_MMM_yyyy_In_HHmm",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Common/Date.swift",
+      "line": 75,
+      "symbol": "DateFormatter.HHmm",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Common/Date.swift",
+      "line": 81,
+      "symbol": "DateFormatter.yyyyMMddHHmmss",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 14,
+      "symbol": "FormatWithLanguage.rus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 15,
+      "symbol": "FormatWithLanguage.eng",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 17,
+      "symbol": "FormatWithLanguage.textReplacing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 29,
+      "symbol": "DateFormats.yearMonthDayWithDots",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 30,
+      "symbol": "DateFormats.yearMonthDayWithLine",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 31,
+      "symbol": "DateFormats.dayMonthLetterYear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 32,
+      "symbol": "DateFormats.dayMonthDigitsYear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 33,
+      "symbol": "DateFormats.serverTime",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 34,
+      "symbol": "DateFormats.dayMonthLetterYearAndTime",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 35,
+      "symbol": "DateFormats.timeWithDigits",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 36,
+      "symbol": "DateFormats.yearMonthDayWithLineAndTime",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/FuncHelper/FuncHelper.swift",
+      "line": 10,
+      "symbol": "FuncHelper",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/NWPathMonitor/NetworkChecker.swift",
+      "line": 40,
+      "symbol": "NetworkChecker.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Protocols/Protocols.swift",
+      "line": 22,
+      "symbol": "AnyOptional.isNil",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Structs/StringInputType.swift",
+      "line": 12,
+      "symbol": "StringInputTypeProtocol.formatLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Structs/StringInputType.swift",
+      "line": 13,
+      "symbol": "StringInputTypeProtocol.containsText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Structs/StringInputType.swift",
+      "line": 14,
+      "symbol": "StringInputTypeProtocol.containsNumbers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Structs/StringInputType.swift",
+      "line": 15,
+      "symbol": "StringInputTypeProtocol.containsSpecialSymbols",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Structs/StringInputType.swift",
+      "line": 56,
+      "symbol": "StringInputType.formatLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Structs/StringInputType.swift",
+      "line": 57,
+      "symbol": "StringInputType.containsText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Structs/StringInputType.swift",
+      "line": 58,
+      "symbol": "StringInputType.containsNumbers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Structs/StringInputType.swift",
+      "line": 59,
+      "symbol": "StringInputType.containsSpecialSymbols",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/garpix_utils/garpix_utils"
+}
